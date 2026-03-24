@@ -7,7 +7,7 @@
 
 Landing page de portfólio moderna e responsiva, desenvolvida com **Next.js 14**, **Tailwind CSS** e **Framer Motion**. Design minimalista com animações suaves e foco em conversão.
 
-![Screenshot Hero](https://raw.githubusercontent.com/fabiomendes33/minha-landing-page/main/public/screenshot-hero.png)
+![Screenshot Hero](https://raw.githubusercontent.com/fabiomendes33/minha-landing-page/main/public/screenshot-hero
 
 ---
 
