@@ -1,5 +1,6 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
+import Projects from "@/components/Projects";
 import Features from "@/components/Features";
 import Testimonials from "@/components/Testimonials";
 import Pricing from "@/components/Pricing";
@@ -11,6 +12,7 @@ export default function Home() {
     <main className="min-h-screen bg-gray-950">
       <Navbar />
       <Hero />
+      <Projects />
       <Features />
       <Testimonials />
       <Pricing />

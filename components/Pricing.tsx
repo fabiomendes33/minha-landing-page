@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { MapPin, GraduationCap, Briefcase, Heart } from "lucide-react";
 
 const stats = [
-  { value: "3+", label: "Anos de experiência" },
+  { value: "10+", label: "Anos de experiência" },
   { value: "20+", label: "Projetos entregues" },
   { value: "10+", label: "Clientes atendidos" },
   { value: "100%", label: "Comprometimento" },
@@ -36,13 +36,19 @@ export default function Pricing() {
             <h2 className="text-4xl md:text-5xl font-extrabold text-white mb-6 leading-tight">
               Olá, sou{" "}
               <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-                Fabio Mendes
+                Fabio
+              </span>{" "}
+              <span className="text-3xl">Desenvolvedor Fullstack</span>
+              <br />
+              <span className="text-sm font-semibold text-purple-400 mt-2">
+                pela PUC-Rio
               </span>
             </h2>
+
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
-              Analista de Sistemas e desenvolvedor full-stack baseado em
-              Ituiutaba, MG. Especializado em criar aplicações web modernas com
-              React, Next.js e FastAPI — do design ao deploy.
+              Desenvolvedor full-stack Front End e Back End Especializado em
+              criar aplicações web modernas com React, Next.js e FastAPI — do
+              design ao deploy,Freelancer nacional e internacionalmente.
             </p>
             <p className="text-gray-400 leading-relaxed mb-8">
               Fundador da{" "}
